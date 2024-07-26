@@ -1,0 +1,13 @@
+,index,score,trend,ors?,subsystem,fluxDiff,FinalFlux,ands?,In,growth %,bgene,geneName
+0,PPK2,406.0,Up,False,Oxidative Phosphorylation,0.0,0.0,False,True,1.0,b2501,['ppk']
+12,DMPPS,449.0,Up,False,Cofactor and Prosthetic Group Biosynthesis,0.27808,0.27818,False,True,1.0,b0029,['ispH']
+13,IPDPS,449.0,Up,False,Cofactor and Prosthetic Group Biosynthesis,0.27808,0.27818,False,True,1.0,b0029,['ispH']
+33,PPK,571.0,Up,False,Oxidative Phosphorylation,0.46076,-166667.05637,False,True,0.98806,b2501,['ppk']
+50,DXPS,144924142714.0,Up,False,Cofactor and Prosthetic Group Biosynthesis,0.55612,0.55637,False,True,0.0,b0420,['dxs']
+51,DXPRIi,144943098451.0,Up,False,Cofactor and Prosthetic Group Biosynthesis,0.55616,0.55637,False,True,0.0,b0173,['dxr']
+52,MECDPDH2,144943098452.0,Up,False,Cofactor and Prosthetic Group Biosynthesis,0.55616,0.55637,False,True,0.0,b2515,['ispG']
+53,MECDPS,144943098452.0,Up,False,Cofactor and Prosthetic Group Biosynthesis,0.55616,0.55637,False,True,0.0,b2746,['ispF']
+54,MEPCT,144943098452.0,Up,False,Cofactor and Prosthetic Group Biosynthesis,0.55616,0.55637,False,True,0.0,b2747,['ispD']
+55,CDPMEK,144943099229.0,Up,False,Cofactor and Prosthetic Group Biosynthesis,0.55616,0.55637,False,True,0.0,b1208,['ispE']
+56,GRTT,144997369292.0,Up,False,Cofactor and Prosthetic Group Biosynthesis,0.13907,0.13909,False,True,0.0,b0421,['ispA']
+57,DMATT,144997372073.0,Up,False,Cofactor and Prosthetic Group Biosynthesis,0.13907,0.13909,False,True,-0.0,b0421,['ispA']

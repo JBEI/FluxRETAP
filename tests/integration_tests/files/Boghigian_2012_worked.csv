@@ -1,0 +1,4 @@
+,index,score,trend,ors?,subsystem,fluxDiff,FinalFlux,ands?,In,growth %,bgene,geneName
+34,PPK,571.0,Up,False,Oxidative Phosphorylation,0.46076,-166667.05637,False,True,0.98806,b2501,['ppk']
+58,IPDDI,417.0,Up,False,Cofactor and Prosthetic Group Biosynthesis,0.13901,-0.13909,False,True,1.0,b2889,['idi']
+59,PPK2,406.0,Up,False,Oxidative Phosphorylation,0.0,0.0,False,True,1.0,b2501,['ppk']
